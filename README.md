@@ -74,4 +74,3 @@ The testing function evaluates the model on the test dataset and calculates the 
 The script prints the following information during training and testing:
 
 ![image](https://github.com/user-attachments/assets/0c9fcf69-5ea1-42ff-8b0a-3c0777b72545)
-
