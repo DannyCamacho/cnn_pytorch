@@ -61,7 +61,7 @@ The training process uses:
     Loss function: Cross-Entropy Loss
     Optimizer: Adam optimizer with a learning rate of 0.001
     Mini-batch size: 100
-    Epochs: 1 (can be adjusted for further training)
+    Epochs: 1
 
 The training function logs the loss after each mini-batch.
 
